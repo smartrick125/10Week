@@ -1,0 +1,18 @@
+# Local editor and operating-system files
+.vs/
+.vscode/
+*.tmp
+*.bak
+Thumbs.db
+
+# Unity-generated files, if a full project is added later
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Legacy Word drafts remain local until reviewed for public release
+/*.doc
